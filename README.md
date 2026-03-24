@@ -33,4 +33,4 @@
 *   **Focus**: Eliminating Python Object Overhead in Data Pipelines.
 *   **Profiling:** `cProfile`, `line_profiler`, `numba.cuda.profiler`, `valgrind/memcheck`.
 *   **Benchmarking:** Micro-benchmarking with `time.perf_counter()`, latency measurement, and memory profiling (`tracemalloc`).
-*   🔍 **LLVM IR Analysis**: Manual inspection of generated assembly to verify vectorization efficiency.
+*   **LLVM IR Analysis**: Manual inspection of generated assembly to verify vectorization efficiency.
