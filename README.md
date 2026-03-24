@@ -8,7 +8,7 @@
 ![CUDA](https://img.shields.io/badge/CUDA-12.x-red)
 ![LLVM](https://img.shields.io/badge/LLVM-IR-purple)
 
-> **Philosophy:** Python is a remote control for LLVM kernels. Zero overhead in hot paths.
+> Python is a remote control for LLVM kernels. Zero overhead in hot paths.
 
 ## Low Level Technical Stack (Strictly Typed & Pre-allocated)
 *   **Compute:** Numba (`@njit`, `@parallel`), NumPy (**Structured Arrays**, DType Packing), CUDA.
