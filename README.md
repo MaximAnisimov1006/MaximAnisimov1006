@@ -30,7 +30,7 @@
 * **Memory Pressure Analysis:** Heap auditing with `tracemalloc` to enforce **Zero-GC Jitter** and $t=0$ allocation stability.
 * **High-Precision Latency Telemetry:** Micro-benchmarking hot paths via `time.perf_counter()` to isolate and **purge Python dispatch overhead**, reaching deterministic **C++ hardware latency**.
 
-### Certifications & Academic Base
+### Academic Base & Certifications
 * **NVIDIA Training:** CUDA-Accelerated Computing & Numba (GPU Kernel Saturation).
 * **Intel HPC Curricula:** Micro-architecture optimization, AVX-512, and Cache-Line tuning.
 * **MIT OpenCourseWare:** Performance Engineering (6.172) — Mastery of Software-Hardware Synergy.
