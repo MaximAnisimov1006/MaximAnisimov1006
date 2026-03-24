@@ -1,4 +1,5 @@
-# Maxim Anisimov | Senior Systems Engineer | High-Frequency Data Pipelines & Latency Optimization
+# Maxim Anisimov | Principal Performance Architect
+### High-Frequency Data Pipelines & CPU-Cycle Optimization
 
 ![Assembly](https://img.shields.io/badge/ASM-x86_64-red)
 ![C++](https://img.shields.io/badge/C%2B%2B-17-blue)
@@ -8,13 +9,13 @@
 ![CUDA](https://img.shields.io/badge/CUDA-12.x-red)
 ![LLVM](https://img.shields.io/badge/LLVM-IR-purple)
 
-> Python is a remote control for LLVM kernels. Zero overhead in hot paths.
+> **"Python is a remote control for LLVM kernels. By enforcing strict type locking, pre-allocation, and cache-aware vectorization, I eliminate interpreter overhead in hot paths to achieve C++-level latency using only Python. I architect ultra-low-latency systems where performance is verified at the instruction level. My goal is to transform high-level logic into deterministic, branchless machine code that extracts 100% of the hardware's theoretical throughput."**
 
-## Low Level Technical Stack (Strictly Typed & Pre-allocated)
-*   **Compute:** Numba (`@njit`, `@parallel`), NumPy (**Structured Arrays**, DType Packing), CUDA.
-*   **Memory:** `ctypes`, `np.memmap`, Cache Line Alignment (64-byte padding).
-*   **Vectorization:** SIMD (AVX-512/AVX2), Stride-1 Access, Branch Elimination.
-*   **Profiling:** `cProfile`, `valgrind`, **LLVM IR Inspection**.
+### Low-Level Optimization & ASM Refinement
+*   **JUMP Elimination:** Manual inspection of generated **Assembly (ASM)** to identify and eliminate costly `jmp` (branching) instructions. 
+*   **Branchless Arithmetic:** Replacement of `if/else` logic with bitwise masking and conditional moves (`CMOV`) to prevent pipeline stalls and branch mispredictions.
+*   **Aggressive Vectorization:** Forcing **SIMD (AVX-512/AVX2)** utilization through manual **LLVM IR** tuning to ensure the compiler generates packed vector operations instead of scalar loops.
+*   **Instruction Audit:** Constant auditing of the hot path to ensure **Zero-Overhead** execution and optimal IPC (Instructions Per Cycle).
 
 ## Performance Optimisation: Zero-Overhead Architecture
 
