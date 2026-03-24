@@ -2,6 +2,7 @@
 
 ![Assembly](https://img.shields.io/badge/ASM-x86_64-red)
 ![C++](https://img.shields.io/badge/C%2B%2B-17-blue)
+![C#](https://img.shields.io/badge/C%23-10-blue)
 ![NumPy](https://img.shields.io/badge/NumPy-1.26+-blue)
 ![Numba](https://img.shields.io/badge/Numba-0.59+-green)
 ![CUDA](https://img.shields.io/badge/CUDA-12.x-red)
