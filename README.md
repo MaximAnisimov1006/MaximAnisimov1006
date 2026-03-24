@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My Certificates:
-- [freeCodeCamp](https://freecodecamp.org/certification/maximanisimov/python-v9)
+- [Python - Developer - freeCodeCamp](https://freecodecamp.org/certification/maximanisimov/python-v9)
 
 <!--
 **Afghan-0372/Afghan-0372** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
