@@ -3,13 +3,13 @@
 
 ![Assembly](https://img.shields.io/badge/ASM-x86_64-red)
 ![SIMD](https://img.shields.io/badge/SIMD-Branchless%20Logic-red)
+![AVX512](https://img.shields.io/badge/AVX512-Full%20Width%20Utilization-red)
 ![CUDA](https://img.shields.io/badge/CUDA-12.x-red)
 ![LLVM](https://img.shields.io/badge/LLVM-IR-purple)
-![AVX512](https://img.shields.io/badge/AVX512-Full%20Width%20Utilization-green)
 ![C++](https://img.shields.io/badge/C%2B%2B-17-blue)
 ![C#](https://img.shields.io/badge/C%23-10-blue)
 ![NumPy](https://img.shields.io/badge/NumPy-1.26+-blue)
-![Numba](https://img.shields.io/badge/Numba-0.59+-green)
+![Numba](https://img.shields.io/badge/Numba-0.59+-blue)
 
 
 
