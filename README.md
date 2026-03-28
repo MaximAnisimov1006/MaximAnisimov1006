@@ -90,7 +90,7 @@ Processing 1M+ market ticks with sub-microsecond latency using a Python-based st
 * [Data Analytics with AI](https://www.sololearn.com/certificates/CC-LZH7VRPT)
 
 #### Engineering & Strategy
-* [C# Microsoft Certified]((https://freecodecamp.org/certification/maximanisimov/foundational-c-sharp-with-microsoft))
+* [C# Microsoft Certified](https://freecodecamp.org/certification/maximanisimov/foundational-c-sharp-with-microsoft)
 * [C# Professional Series (3x)](link)
 * [C# Professional Series (2x)](link)
 * [Prompt Engineering Mastery](link)
