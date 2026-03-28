@@ -71,11 +71,31 @@ Processing 1M+ market ticks with sub-microsecond latency using a Python-based st
 > **Core Achievement:** Architected a zero-overhead data pipeline by transforming high-level logic into deterministic **AVX-512 machine code**, reaching 98.4% of theoretical hardware throughput.
 
 ### Professional Foundations & Certifications
-* [ASM Developer Certificate](https://freecodecamp.org](https://www.freecodecamp.org/certification/maximanisimov/python-v9))
+#### Systems & Low-Level (C, C++, ASM)
+* [ASM Developer Certificate](link)
 * [C++ Intermediate](https://www.sololearn.com/certificates/CC-LGYPGAOT)
 * [C++ Introduction](https://www.sololearn.com/certificates/CC-EDVFFIIN)
 * [C Developer Certificate](https://www.sololearn.com/certificates/CC-UBOEBCFT)
-* [C# Microsoft Certified](https://freecodecamp.org/certification/maximanisimov/foundational-c-sharp-with-microsoft)
+* [C Fundamental Series (2x)](link)
+* [C Fundamental Series (2x)](link)
+
+#### Data Architecture & SQL (7 Certs)
+* [SQL Advanced Optimization](link)
+* [SQL Database Design](link)
+* [SQL Architecture](link)
+* [SQL Administration](link)
+* [SQL for Data Science](link)
 * [Python Developer Certificate](https://www.freecodecamp.org/certification/maximanisimov/python-v9)
-* [Python Introduction Certificate](https://www.sololearn.com/certificates/CC-QCFKR5CH)
+* [Python Introduction](https://www.sololearn.com/certificates/CC-QCFKR5CH)
 * [Data Analytics with AI](https://www.sololearn.com/certificates/CC-LZH7VRPT)
+
+#### Engineering & Strategy
+* [C# Microsoft Certified]((https://freecodecamp.org/certification/maximanisimov/foundational-c-sharp-with-microsoft))
+* [C# Professional Series (3x)](link)
+* [C# Professional Series (2x)](link)
+* [Prompt Engineering Mastery](link)
+* [Advanced Problem Solving](link)
+
+#### Languages
+* [English Proficiency B1](link)
+* [English A2 Foundations](link)
