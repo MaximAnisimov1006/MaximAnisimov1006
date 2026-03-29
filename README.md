@@ -76,7 +76,7 @@ Processing 1M+ market ticks with sub-microsecond latency using a Python-based st
 * [C++ Intermediate](https://www.sololearn.com/certificates/CC-LGYPGAOT)
 * [C++ Introduction](https://www.sololearn.com/certificates/CC-EDVFFIIN)
 * [C Developer Certificate](https://www.sololearn.com/certificates/CC-UBOEBCFT)
-* [C Fundamental Series](link)
+* [C Programming Basics](/certificates/C_Programming.pdf)
 * [C Driver Development](link)
 
 #### Data Architecture & SQL
@@ -86,6 +86,8 @@ Processing 1M+ market ticks with sub-microsecond latency using a Python-based st
 * [SQL Administration](link)
 * [SQL for Data Science](link)
 * [Python Developer Certificate](https://www.freecodecamp.org/certification/maximanisimov/python-v9)
+* [Python Data Science](/certificates/Python_Data_science.pdf)
+* [Python Deep Learning](/certificates/Python_Deep_Learning.pdf)
 * [Python Introduction](https://www.sololearn.com/certificates/CC-QCFKR5CH)
 * [Data Analytics with AI](https://www.sololearn.com/certificates/CC-LZH7VRPT)
 
@@ -95,6 +97,7 @@ Processing 1M+ market ticks with sub-microsecond latency using a Python-based st
 * [C# Professional Series (2x)](link)
 * [Prompt Engineering Mastery](link)
 * [Advanced Problem Solving](link)
+* [Nasa System Engineering](/certificates/NASA_certified.pdf)
 
 #### Languages
 * [English Proficiency B1](link)
