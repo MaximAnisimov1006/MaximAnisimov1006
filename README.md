@@ -73,14 +73,11 @@ Processing 1M+ market ticks with sub-microsecond latency using a Python-based st
 ### Professional Foundations & Certifications
 #### Systems & Low-Level (C, C++, ASM)
 * [ASM Developer Certificate](/certificates/Assembly_EU.pdf)
-*
-* [C++ Intermediate](https://www.sololearn.com/certificates/CC-LGYPGAOT)
+* [C++ Advanced](https://www.sololearn.com/certificates/CC-LGYPGAOT)
 * [C++ Introduction](https://www.sololearn.com/certificates/CC-EDVFFIIN)
-*
-* [C Driver Development](link)
+* [C Advanced](link)
 * [C Foundation](/certificates/C_Programming.pdf)
 * [C Introduction](https://www.sololearn.com/certificates/CC-UBOEBCFT)
-*  
 * [C# Professional](https://www.sololearn.com/certificates/CC-D7GQNS4N)
 * [C# Basic](https://www.hackerrank.com/certificates/0317ef5a0695)
 * [C# Microsoft Foundation](https://freecodecamp.org/certification/maximanisimov/foundational-c-sharp-with-microsoft)
@@ -91,7 +88,7 @@ Processing 1M+ market ticks with sub-microsecond latency using a Python-based st
 * [Python Developer Certificate](https://www.freecodecamp.org/certification/maximanisimov/python-v9)
 * [Python Data Science](/certificates/Python_Data_science.pdf)
 * [Python Deep Learning](/certificates/Python_Deep_Learning.pdf)
-* [Python Professional](https://www.sololearn.com/certificates/CC-D0O9G48K)
+* [Python Advanced](https://www.sololearn.com/certificates/CC-D0O9G48K)
 * [Python Foundation](https://www.hackerrank.com/certificates/bee5c312c9ee)
 * [Python Introduction](https://www.sololearn.com/certificates/CC-QCFKR5CH)
 * [Data Analytics with AI](https://www.sololearn.com/certificates/CC-LZH7VRPT)
