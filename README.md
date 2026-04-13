@@ -78,7 +78,7 @@ Processing 1M+ market ticks with sub-microsecond latency using a Python-based st
 * [C Advanced](https://www.sololearn.com/certificates/CC-7D2UJTFP)
 * [C Foundation](/certificates/C_Programming.pdf)
 * [C Introduction](https://www.sololearn.com/certificates/CC-UBOEBCFT)
-* [C# Professional](https://www.sololearn.com/certificates/CC-D7GQNS4N)
+* [C# Advanced](https://www.sololearn.com/certificates/CC-D7GQNS4N)
 * [C# Basic](https://www.hackerrank.com/certificates/0317ef5a0695)
 * [C# Microsoft Foundation](https://freecodecamp.org/certification/maximanisimov/foundational-c-sharp-with-microsoft)
 * [C# Foundation](https://www.sololearn.com/certificates/CC-YUS00YF7)
