@@ -1,5 +1,5 @@
 # Maxim Anisimov | Performance Engineer
-### High-Frequency Data Pipelines & CPU/GPU-Cycle Optimization
+### Lock-free Data Structures, High-Performance Systems, Python-C Interoperability, SIMD/AVX optimization
 
 ![Assembly](https://img.shields.io/badge/ASM-x86_64-red)
 ![SIMD](https://img.shields.io/badge/SIMD-Branchless%20Logic-red)
